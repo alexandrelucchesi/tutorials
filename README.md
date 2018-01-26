@@ -11,5 +11,10 @@ should be in the folder "projetando-algoritmos-por-inducao".
 ## How to collaborate?
 
 If you published a tutorial on [Mavins Blog](https://mavins.com.br/blog/), just
-submit a PR with the related files (mind the previous topic).
+submit a PR with the related files (mind the previous topic) and add your name
+to the section below (in case it's not there yet).
 
+## Collaborators
+
+  - [Alexandre Lucchesi](https://github.com/alexandrelucchesi)
+  - [Vinícius Ramos](https://github.com/viniciusramos91)
